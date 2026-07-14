@@ -27,29 +27,6 @@ A REST API built with **Spring Boot** and **Java** to manage journal entries.
 - **Maven**
 - **MongoDB**
 
----
-## 📡 API Response Example
-
-### GET /journal
-
-**Request:**
-```http
-GET http://localhost:8080/journal
-
-[
-  {
-    "id": "64b7f9c2e4a1",
-    "title": "My First Journal",
-    "content": "Today I started learning Spring Boot!",
-    "createdAt": "2026-07-14T10:30:00Z"
-  },
-  {
-    "id": "64b7f9c2e4a2",
-    "title": "Second Entry",
-    "content": "Explored MongoDB integration.",
-    "createdAt": "2026-07-14T11:00:00Z"
-  }
-]
 
 
 ## ⚡ Getting Started
