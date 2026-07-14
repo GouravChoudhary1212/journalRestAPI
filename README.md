@@ -33,4 +33,4 @@ A REST API built with **Spring Boot** and **Java** to manage journal entries.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GouravChoudhary1212/journalRestAPI.git
+   git clone https://github.com/GouravChoudhary8359/journalRestAPI.git
