@@ -1,8 +1,11 @@
-\# Journal REST API
-
-
 
 A REST API built with \*\*Spring Boot\*\* and \*\*Java\*\* to manage journal entries.
+# Journal REST API
+
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.0-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
+![Build](https://img.shields.io/badge/Build-Maven-orange)
 
 
 
