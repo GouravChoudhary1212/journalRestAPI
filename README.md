@@ -1,5 +1,6 @@
+# 📓 Journal REST API
 
-# Journal REST API
+A REST API built with **Spring Boot** and **Java** to manage journal entries.
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.0-green)
@@ -10,38 +11,26 @@
 ![GitHub forks](https://img.shields.io/github/forks/GouravChoudhary1212/journalRestAPI?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/GouravChoudhary1212/journalRestAPI)
 
+---
 
-\## Features
+## 🚀 Features
+- Create, read, update, and delete journal entries
+- Health check endpoint
+- User management controller
+- MongoDB integration for storing entries
 
-\- Create, read, update, and delete journal entries
+---
 
-\- Health check endpoint
+## 🛠 Tech Stack
+- **Java**
+- **Spring Boot**
+- **Maven**
+- **MongoDB**
 
-\- User management controller
+---
 
-\- MongoDB integration for storing entries
+## ⚡ Getting Started
 
-
-
-\## Tech Stack
-
-\- Java
-
-\- Spring Boot
-
-\- Maven
-
-\- MongoDB
-
-
-
-\## Getting Started
-
-1\. Clone the repository:
-
-&#x20;  ```bash
-
-&#x20;  git clone https://github.com/GouravChoudhary1212/journalRestAPI.git
-
-
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/GouravChoudhary1212/journalRestAPI.git
